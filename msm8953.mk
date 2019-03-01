@@ -407,5 +407,5 @@ PRODUCT_BOOT_JARS += \
     WfdCommon
 
 # AdvancedControls
-PRODUCT_PACKAGES += \
-    AdvancedControls \
+#PRODUCT_PACKAGES += \
+#    AdvancedControls \
